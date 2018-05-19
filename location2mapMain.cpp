@@ -60,11 +60,6 @@ int main()
 	getElevation(eles, "ele.txt");
 	getTime(times, "time.txt");
 
-	//for (int i = 0; i < lats.size(); i++) {
-	//	printf("%s %.2f %.2f %.2f \n", times[i].c_str(), lats[i], lons[i], eles[i]);
-	//}
-
-
 	vector<float> clats;
 	vector<float> clons;
 	float minlats = 999;
