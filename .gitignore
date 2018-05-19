@@ -3,3 +3,14 @@
 ################################################################################
 
 /x64/Debug/vc141.pdb
+/x64/Debug/Location2Map.tlog
+/x64/Debug/Location2Map.log
+/x64/Debug/location2mapMain.obj
+/x64/Debug/vc141.idb
+/x64/Release/Location2Map.tlog
+/x64/Release/Location2Map.Build.CppClean.log
+/x64/Release/Location2Map.log
+/x64/Release/location2mapMain.obj
+/x64/Release/vc141.pdb
+/Location2Map.vcxproj.user
+/Location2Map.vcxproj.filters

@@ -40,7 +40,7 @@ int getTime(vector<string> &times, const char* path) {
 	FILE* FP = fopen(path, "rt");
 	int nl;
 	fscanf(FP, "%d", &nl);
-	printf("%s\n", path);
+	
 	char txt[100];
 	for (int i = 0; i < nl; i++) {		
 		fscanf(FP, "%s", &txt);
